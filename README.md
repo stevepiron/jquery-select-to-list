@@ -12,7 +12,7 @@ attributesToKeep | array | [] | An array of attributes already defined on the `o
 selectFirstIfNone | boolean | false | Sets the first list item as selected if no option is.
 selectedClass | string | 'is-selected' | The class applied to the selected list item.
 onAfterInit | function | false | A function to be executed before init.
-onAfterSelect | function | false | A function to be executed after init.
+onAfterSelect | function | false | A function to be executed after selection.
 
 ### Dependencies
 jQuery
